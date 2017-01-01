@@ -1,0 +1,4 @@
+# App Configuration
+---
+dropbox:
+  accessToken: {AccessToken}
